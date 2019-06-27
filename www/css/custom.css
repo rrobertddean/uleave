@@ -1,0 +1,15 @@
+#notif-account {
+    display:none;
+    font-style: italic;
+    text-align:center;
+    color:red;
+}
+
+#togglePassword {
+    /* display:inline-block; */
+    margin-top:5px;
+}
+
+.showrecords-holder {
+    text-align:right;
+}

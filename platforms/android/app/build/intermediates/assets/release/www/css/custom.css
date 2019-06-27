@@ -1,0 +1,12 @@
+#notif-account {
+    display:none;
+}
+
+#togglePassword {
+    /* display:inline-block; */
+    margin-top:5px;
+}
+
+.showrecords-holder {
+    text-align:right;
+}

@@ -1,0 +1,4 @@
+#Wed Mar 27 15:30:46 SGT 2019
+base.0=C\:\\inetpub\\wwwroot\\cordova\\uleave\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
